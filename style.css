@@ -12,3 +12,132 @@
  Text Domain:  twenty-fifteen-child
 */
 
+
+blockquote cite,
+blockquote small {
+	font-family: inherit;
+}
+
+ul, ol {
+	padding-left: 1.6em;
+}
+
+
+::-webkit-input-placeholder {
+	font-family: inherit;
+}
+
+:-moz-placeholder {
+	font-family: inherit;
+}
+
+::-moz-placeholder {
+	font-family: inherit;
+}
+
+:-ms-input-placeholder {
+	font-family: inherit;
+}
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	font-family: inherit;
+}
+
+.post-password-form label {
+	font-family: inherit;
+}
+
+.main-navigation .menu-item-description {
+	font-family: inherit;
+}
+
+.post-navigation .meta-nav {
+	font-family: inherit;
+}
+
+.pagination {
+	font-family: inherit;
+}
+
+.image-navigation,
+.comment-navigation {
+	font-family: inherit;
+}
+
+.site .skip-link {
+	font-family: inherit;
+}
+
+.logged-in .site .skip-link {
+	font-family: inherit;
+}
+
+.site-title {
+	font-family: inherit;
+}
+
+.site-description {
+	font-family: inherit;
+}
+
+.widget-title {
+	font-family: inherit;
+}
+
+.widget_rss .rss-date,
+.widget_rss cite {
+	font-family: inherit;
+}
+
+.author-heading {
+	font-family: inherit;
+}
+
+.entry-footer {
+	font-family: inherit;
+}
+
+.page-links {
+	font-family: inherit;
+}
+
+.entry-caption {
+	font-family: inherit;
+}
+
+.comment-metadata,
+.pingback .edit-link {
+	font-family: inherit;
+}
+
+.comment-list .reply a {
+	font-family: inherit;
+}
+
+.comment-form label {
+	font-family: inherit;
+}
+
+.comment-notes,
+.comment-awaiting-moderation,
+.logged-in-as,
+.form-allowed-tags {
+	font-family: inherit;
+}
+
+.no-comments {
+	font-family: inherit;
+}
+
+.wp-caption-text {
+	font-family: inherit;
+}
+
+.gallery-caption {
+	font-family: inherit;
+}
+
+
